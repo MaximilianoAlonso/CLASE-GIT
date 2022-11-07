@@ -1,1 +1,2 @@
-const frutas = ["manzana", "kiwi"]
+const frutas = ["manzana", "kiwi"];
+frutas.push("frutilla")
