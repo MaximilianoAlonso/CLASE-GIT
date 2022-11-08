@@ -1,2 +1,2 @@
-const verduras = ["apio", "lechuga"]
+const verduras = ["apio", "lechuga", "pepino"]
 verduras.push("batata")
